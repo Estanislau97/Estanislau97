@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Eu amo grandes desafios usando tecnologia<br>Cursando Análise e Desenvolvimento de Sistemas 4/5 <br><br>Desenvolvedor Back-end especializado em Java. Apaixonado por tecnologia, estou sempre em busca de novos desafios que me permitam aplicar e aprimorar minhas habilidades. Possuo um forte conhecimento em frameworks como Spring e Hibernate, além de experiência prática com bancos de dados relacionais e não relacionais, integração de APIs, e boas práticas de desenvolvimento ágil. Estou pronto para contribuir com projetos inovadores e colaborar com equipes dinâmicas para alcançar grandes resultados.</p>&nbsp;
+<p align="center">Eu amo grandes desafios usando tecnologia<br>Cursando Análise e Desenvolvimento de Sistemas 5/5 <br><br>Desenvolvedor Back-end especializado em Java. Apaixonado por tecnologia, estou sempre em busca de novos desafios que me permitam aplicar e aprimorar minhas habilidades. Possuo um forte conhecimento em frameworks como Spring e Hibernate, além de experiência prática com bancos de dados relacionais e não relacionais, integração de APIs, e boas práticas de desenvolvimento ágil. Estou pronto para contribuir com projetos inovadores e colaborar com equipes dinâmicas para alcançar grandes resultados.</p>&nbsp;
 
 
  
